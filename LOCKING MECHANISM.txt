@@ -1,0 +1,9 @@
+disk.locking = "FALSE"
+diskLib.dataCacheMaxSize = "0"
+diskLib.dataCacheMinReadAheadSize = "0"
+diskLib.dataCacheMaxReadAheadSize = "0"
+diskLib.dataCachePageSize = "4096"
+diskLib.maxUnsyncedWrites = "0"
+
+
+disk.EnableUUID="TRUE" 		(multipath
